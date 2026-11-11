@@ -9,3 +9,11 @@ This reporsitory created as my first project file
 - Jenkins
 - Docker
 - Kubernetics
+
+## cureent status
+
+completed
+inprogress
+pending
+pending
+pending
