@@ -1,0 +1,11 @@
+# Envionment files
+.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Dependancy folders
+node_modules/
