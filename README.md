@@ -19,4 +19,3 @@ pending
 pending
 this is master branch version
 this is my feature branch
-practice git revert
