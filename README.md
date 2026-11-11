@@ -10,7 +10,7 @@ This reporsitory created as my first project file
 - Docker
 - Kubernetics
 
-## cureent status
+## curent status
 
 completed
 inprogress
@@ -19,3 +19,5 @@ pending
 pending
 this is master branch version
 this is my feature branch
+
+this change was made directly on git hub
